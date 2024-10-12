@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Poetry (intellij-polyglot)" />
+  </component>
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -38,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/intellij-polyglot.app.iml" filepath="$PROJECT_DIR$/app/intellij-polyglot.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/intellij-polyglot.app.main.iml" filepath="$PROJECT_DIR$/app/intellij-polyglot.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/intellij-polyglot.app.test.iml" filepath="$PROJECT_DIR$/app/intellij-polyglot.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poetry/poetry.iml" filepath="$PROJECT_DIR$/poetry/poetry.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
